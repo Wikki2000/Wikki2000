@@ -34,6 +34,3 @@ I’m looking to collaborate on:
  
 ### ⚡ Fun Fact
 I code for fun. When I'm hungry, code is what I "eat" 😀🤣
-
-# My Skills
-## Frontend Technologies
