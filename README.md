@@ -1,8 +1,6 @@
 ## Hi there 👋 My name is Wisdom Okposin
 
-# Programming Languages
-
-- Python: <i class="fab fa-python"></i>
+- Python: `python`
 
 <!--
 **Wikki2000/Wikki2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
