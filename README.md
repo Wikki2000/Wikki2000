@@ -11,7 +11,6 @@ I graduated with a first class (4.82/5.0 CGPA) degree in Electrical and Electron
 ### 💼 Current Role
 Currently working as a Software Engineering Intern at ALX Africa.
 
-
 ### 👯 Collaboration
 I’m looking to collaborate on:
 
@@ -31,53 +30,18 @@ Best practices in software development, writing efficient code, and optimizing f
 I code for fun. When I'm hungry, code is what I "eat" 😀🤣
 
 ## Skills
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="text-align: center; margin: 10px;">
-        <img alt="HTML5" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg">
-        <br>HTML5
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="CSS3" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg">
-        <br>CSS3
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="JavaScript" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
-        <br>JavaScript
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="Bootstrap" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
-        <br>Bootstrap
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="jQuery" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg">
-        <br>jQuery
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
-        <br>Python
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="PHP" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg">
-        <br>PHP
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="C" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg">
-        <br>C
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="Docker" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg">
-        <br>Docker
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="MySQL" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg">
-        <br>MySQL
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="Flask" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg">
-        <br>Flask
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img alt="Linux" width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg">
-        <br>Linux
-    </div>
-</div>
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5"/> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="50" height="50" alt="jQuery"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python"/> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker"/> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL"/> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="50" height="50" alt="Flask"/> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="50" height="50" alt="Linux"/> 
+</p>
