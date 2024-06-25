@@ -30,7 +30,7 @@ I’m looking to collaborate on:
 
 ### 📫 How to Reach Me
 - [Email](wisdomokposin@gmil.com)
-- [LinkedIn]((https://www.linkedin.com/in/wisdom-okposin/)
+- [LinkedIn](https://www.linkedin.com/in/wisdom-okposin/)
  
 ### ⚡ Fun Fact
 I code for fun. When I'm hungry, code is what I "eat" 😀🤣
