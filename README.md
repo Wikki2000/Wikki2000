@@ -89,5 +89,3 @@ I code for fun. When I'm hungry, code is what I "eat" 😀🤣
         <br>NGINX
     </div>
 </div>
-
-# Projects
