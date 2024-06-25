@@ -16,6 +16,7 @@ I’m looking to collaborate on:
 
 - Web applications
 - Mobile applications
+- Desktop applications
 - Embedded systems projects
 - Robotics programming projects
 
@@ -40,7 +41,6 @@ I code for fun. When I'm hungry, code is what I "eat" 😀🤣
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python"/> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C"/>
-    <img src="file:///C:/Users/user/Downloads/c.svg" width="50" height="50" alt="cpp"/>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="50" height="50" alt="Docker"/> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL"/> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="50" height="50" alt="Flask"/> 
@@ -74,5 +74,4 @@ performance.
 
 - Implemented bash scripting for automated tasks.
 
-- Employed the Betty coding standard for documentation and code quality assurance, optimizing for improved 
-performance.
+- Employed the Betty coding standard for documentation and code quality assurance, optimizing for improved performance.
