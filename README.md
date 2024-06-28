@@ -6,7 +6,7 @@ I'm a passionate developer with a keen interest in low-level programming, embedd
 
 # About Me
 ### 🎓 Education
-I graduated with a first class (4.82/5.0 CGPA) degree in Electrical and Electronics Engineering.
+I graduated with a first class degree in Electrical and Electronics Engineering.
 
 ### 💼 Current Role
 Currently working as a Software Engineering Intern at ALX Africa.
